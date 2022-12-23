@@ -1,0 +1,13 @@
+PROBLEM STATEMENT:
+1. LOGIN
+   User will enter their card into the ATM and the ATM will verify the card status and check for correct pin
+
+2. TRANSACTION
+   ATM will check account status and ask user to enter amount to be withdrawn.
+   ATM will check if account has sufficient balance to meet the user request.
+   If above requests are met ATM will create a new transaction with transaction ID, date, 
+   amount withdrawn and amount remaining in account after withdrawal and will display receipt.
+
+3. CHECK BALANCE
+   ATM will check account status and display current account status
+   z    
